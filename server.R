@@ -6,5 +6,5 @@
       "Asian Call & Asian Put"
     })
     output$price<-renderText({
-      myasian(input$r,input$sigma,input$s0,input$radio,input$k,input$t)
+      myasian("r","sigma","s0","radio","k","t")
     })
