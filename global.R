@@ -1,4 +1,4 @@
-myasian-function(r,sigma,s0,radio,k,t){
+myasian<-function(r,sigma,s0,radio,k,t){
   r<-as.numeric(r)
   sigma<-as.numeric(sigma)
   s0<-as.numeric(s0)
