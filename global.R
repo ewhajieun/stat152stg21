@@ -1,5 +1,10 @@
 myasian-function(r,sigma,s0,radio,k,t){
-
+  r<-as.numeric(r)
+  sigma<-as.numeric(sigma)
+  s0<-as.numeric(s0)
+  radio<-as.numeric(radio)
+  k<-as.numeric(k)
+  t<-as.numeric(t)
   
   delta.t<-1/250
   T<-round(t/delta.t)
