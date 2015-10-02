@@ -1,10 +1,5 @@
-myasian<-function(r,sigma,s0,radio,k,t){
-  #r<-0.04
-  #sigma<-0.27
-  #s0<-236500
-  #radio<-1
-  #k<-236500
-  #t<-1
+myasianOutput<-function(r,sigma,s0,radio,k,t){
+
   
   delta.t<-1/250
   T<-round(t/delta.t)
