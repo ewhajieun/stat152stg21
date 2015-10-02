@@ -52,4 +52,4 @@ myasian<-function(r,sigma,s0,radio,k,t){
   }
   
   return(as.numeric(final))}
-myasian(0.04,0.27,236500,1,236500,1)
+
