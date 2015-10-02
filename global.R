@@ -51,5 +51,5 @@ myasian-function(r,sigma,s0,radio,k,t){
     final<-p.t/m
   }
   
-  return(as.numeric(final))}
+  return(final)}
 
