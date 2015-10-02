@@ -87,8 +87,3 @@ app<-shinyApp(
     })
   }))
 runApp(app,display.mode="showcase")
-
-runGist("https://github.com/ewhajieun/stat152stg21")
-
-runUrl("https://github.com/ewhajieun/stat152stg21/asian")
-runGist("https://gist.github.com/jcheng5/3239667")
