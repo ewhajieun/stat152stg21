@@ -1,4 +1,4 @@
-myasianOutput<-function(r,sigma,s0,radio,k,t){
+myasian-function(r,sigma,s0,radio,k,t){
 
   
   delta.t<-1/250
